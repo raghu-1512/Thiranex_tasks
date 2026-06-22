@@ -1,0 +1,237 @@
+Create a professional UX research case study including the following steps:
+
+# 1. Product Selection & Overview
+
+Select a digital product such as:
+
+* Mobile application
+* Website
+* Web application
+* E-commerce platform
+
+Provide:
+
+* Product name and purpose
+* Target users
+* Main features
+* Current user experience challenges
+
+---
+
+# 2. Usability Test Plan Creation
+
+Prepare a detailed usability testing plan.
+
+Include:
+
+## Testing Objectives
+
+Define what you want to evaluate:
+
+* Ease of navigation
+* Task completion ability
+* User satisfaction
+* Feature discoverability
+* Overall usability
+
+## Testing Method
+
+Choose appropriate methods:
+
+* Moderated usability testing
+* Remote usability testing
+* Task-based testing
+* Think-aloud method
+* User interviews
+
+## Testing Environment
+
+Mention:
+
+* Testing platform
+* Device used
+* Duration of each session
+* Recording method
+
+---
+
+# 3. Test Scenarios and Tasks
+
+Create realistic user tasks.
+
+Example Tasks:
+
+### Task 1:
+
+"Create a new account and complete the onboarding process."
+
+### Task 2:
+
+"Find and use the main feature of the application."
+
+### Task 3:
+
+"Update profile settings."
+
+### Task 4:
+
+"Complete a purchase or submit a request."
+
+For each task include:
+
+* Task goal
+* Expected user action
+* Success criteria
+
+---
+
+# 4. User Recruitment
+
+Recruit sample users for testing.
+
+Include:
+
+## Participant Profile
+
+* Number of participants: 5 users
+* Age group
+* Experience level
+* User background
+
+## User Selection Criteria
+
+* Target audience match
+* Familiarity with similar products
+* Usage frequency
+
+---
+
+# 5. Conduct Usability Testing Sessions
+
+Record user interactions and observations.
+
+Collect:
+
+* User behavior
+* Task completion time
+* Navigation difficulties
+* User confusion points
+* Errors made
+* User comments
+
+Create an observation table:
+
+| User | Task | Success/Failure | Time Taken | Observations |
+| ---- | ---- | --------------- | ---------- | ------------ |
+
+---
+
+# 6. Usability Metrics Analysis
+
+Analyze results using usability metrics:
+
+## Task Success Rate
+
+Measure how many users completed tasks successfully.
+
+## Time on Task
+
+Calculate time required to complete activities.
+
+## Error Rate
+
+Identify common mistakes.
+
+## User Satisfaction
+
+Collect ratings using:
+
+* Surveys
+* SUS (System Usability Scale)
+* Feedback forms
+
+---
+
+# 7. Findings and Insights Report
+
+Create a usability testing report containing:
+
+## Key Findings
+
+* Major usability issues
+* User complaints
+* Common interaction problems
+
+## Severity Rating
+
+Classify issues:
+
+* Critical
+* High Priority
+* Medium Priority
+* Low Priority
+
+## User Feedback Summary
+
+Include:
+
+* Positive feedback
+* Negative feedback
+* Improvement requests
+
+---
+
+# 8. Design Improvement Suggestions
+
+Provide actionable solutions:
+
+Examples:
+
+Problem:
+Users cannot easily find the search option.
+
+Solution:
+Move the search icon to a visible location and improve navigation structure.
+
+Problem:
+Users struggle with registration.
+
+Solution:
+Reduce form fields and simplify onboarding.
+
+---
+
+# 9. Iterative Design Improvement Process
+
+Document improvements using the UX design cycle:
+
+### Research
+
+Understand user problems.
+
+### Analyze
+
+Identify usability issues.
+
+### Improve
+
+Create design solutions.
+
+### Test Again
+
+Validate improvements with users.
+
+---
+
+# Expected Outcome
+
+The final usability testing report should demonstrate:
+
+* Understanding of usability testing methods.
+* Ability to create test plans and scenarios.
+* User research and observation skills.
+* Knowledge of usability metrics.
+* Data analysis and reporting.
+* Iterative UX improvement techniques.
+
+Create the final output as a professional UX research case study suitable for a Figma portfolio, internship submission, or design presentation.
